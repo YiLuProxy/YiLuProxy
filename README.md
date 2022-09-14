@@ -50,7 +50,7 @@ At present, all **dynamic proxy IPs** and **static proxy IPs** in YiLu proxy sup
 - [VMLogin Antidetect Browser](https://yilu.us/integration/yilu-proxy-integrate-with-vmlogin-browser)
 
 
-**Global Dynamic Residential Proxy IP Service Provider - YiLu Proxy **
+**Global Dynamic Residential Proxy IP Service Provider - YiLu Proxy**
 
 **YiLu Proxy** provides the cleanest, regularly updated standalone **Socks5 proxy** IP pool just for your use. There are more than **90 million rotating [residential proxies](https://yilu.us/proxies/residential-proxy) IPs** online in real time around the world, with flexible positioning by country, state, and city; with international operators' own pure computer room fixed and exclusive IP, providing private customized proxy IP service solutions, a variety of business types to meet your all needs. 
 
