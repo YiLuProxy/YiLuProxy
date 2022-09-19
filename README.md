@@ -20,8 +20,13 @@
 
 ## Use Cases ##
 ### [E-Commerce](https://yilu.us/use-cases/e-commerce-proxy) ###
+- [Amazon Proxy](https://yilu.us/use-cases/amazon-proxy)
+- [eBay Proxy](https://yilu.us/use-cases/ebay-proxy)
+- [Sneaker Proxy](https://yilu.us/use-cases/sneaker-proxy)
 ### [Social Media](https://yilu.us/use-cases/social-media) ###
-- [Instagram Proxy](https://yilu.us/use-cases/instagram)
+- [Facebook Proxy](https://yilu.us/use-cases/facebook-proxy)
+- [Pinterest Proxy](https://yilu.us/use-cases/pinterest-proxy)
+- [Instagram Proxy](https://yilu.us/use-cases/instagram-proxy)
 ### [SEO Monitoring](https://yilu.us/use-cases/seo-monitoring) ###
 ### [Web Scraping](https://yilu.us/use-cases/web-scraping) ###
 ### [Brand Protection](https://yilu.us/use-cases/brand-protection) ###
