@@ -27,6 +27,9 @@
 - [Facebook Proxy](https://yilu.us/use-cases/facebook-proxy)
 - [Pinterest Proxy](https://yilu.us/use-cases/pinterest-proxy)
 - [Instagram Proxy](https://yilu.us/use-cases/instagram-proxy)
+- [Youtube Proxy](https://yilu.us/use-cases/youtube-proxy)
+- [Discord Proxy](https://yilu.us/use-cases/discord-proxy)
+- [Reddit Proxy](https://yilu.us/use-cases/reddit-proxy)
 ### [SEO Monitoring](https://yilu.us/use-cases/seo-monitoring) ###
 ### [Web Scraping](https://yilu.us/use-cases/web-scraping) ###
 ### [Brand Protection](https://yilu.us/use-cases/brand-protection) ###
@@ -46,15 +49,28 @@ At present, only **dynamic residential IPs** and **dynamic datacenter IPs** supp
 At present, all **dynamic proxy IPs** and **static proxy IPs** in YiLu proxy support **Socks5 protocol**.
 
 ## Proxy Setup Guide ##
+- [Proxifier](https://www.youtube.com/watch?v=ETc9byXCkQQ)
+
+
 ### Local Browser Settings ###
-- [Google Chrome](https://yilu.us/configuration/use-yilu-proxy-in-google-chrome-browser)
-- [Mozilla Firefox](https://yilu.us/configuration/chrome-proxy-setting-in-yilu-proxy)
+- [Google Chrome](https://yilu.us/configuration/use-yilu-proxy-in-google-chrome-browser) https://www.youtube.com/watch?v=JSDTNunoo8U
+- [Mozilla Firefox](https://yilu.us/configuration/chrome-proxy-setting-in-yilu-proxy) https://www.youtube.com/watch?v=Mtybrhy6RSE
 - [Microsoft Edge](https://yilu.us/configuration/chrome-proxy-setting-in-yilu-proxy)
+- [Brave Browser](https://www.youtube.com/watch?v=LC4qfY5AaD0)
+- [Ghost Browser](https://www.youtube.com/watch?v=p0Lp_2otNUo)
+- [Tor Browser](https://www.youtube.com/watch?v=Q87t-myRN8E)
+- [Vivaldi Browser](https://www.youtube.com/watch?v=pNKzeyzox8g)
 
 
 ### [Antidetect Browser Integration](https://yilu.us/integration) ###
-- [Lalicat Antidetect Browser](https://yilu.us/integration/yilu-proxy-used-with-lalicat-browser)
-- [VMLogin Antidetect Browser](https://yilu.us/integration/yilu-proxy-integrate-with-vmlogin-browser)
+- [Lalicat Antidetect Browser](https://yilu.us/integration/yilu-proxy-used-with-lalicat-browser) https://www.youtube.com/watch?v=3A8ZOv9D3T8
+- [VMLogin Antidetect Browser](https://yilu.us/integration/yilu-proxy-integrate-with-vmlogin-browser) https://www.youtube.com/watch?v=D_nJBEa-lPo
+- [GoLogin Antidetect Browser](https://yilu.us/integration/yilu-proxy-integrate-with-vmlogin-browser) https://www.youtube.com/watch?v=LYnZtAUKZi8
+- [AdsPower Antidetect Browser](https://www.youtube.com/watch?v=q8zo6ap2ny8)
+- [Incogniton Antidetect Browser](https://www.youtube.com/watch?v=JQ_jq5vgiSs)
+- [AntBowser Antidetect Browser](https://www.youtube.com/watch?v=KcxU2CPNAXU)
+- [MBBrowser Antidetect Browser](https://www.youtube.com/watch?v=D84uJP-WgFQ)
+- [MuLogin Antidetect Browser](https://www.youtube.com/watch?v=tXnEZrMqUNk)
 
 
 **Global Dynamic Residential Proxy IP Service Provider - YiLu Proxy**
