@@ -4,7 +4,7 @@
 > **[YiLu Proxy](https://yilu.us)** is a **Socks5 proxy server** with a **client**, which offers **90M+ dynamic residential IPs** and **datacenter IPs** from global **200+** countries, and you can also find some **USA** shared and dedicated **static IP addresses** in YiLu Proxy.  
 > YiLu Proxy uses international operator's own pure computer room fixed IPS data center IP, global high-speed **Socks5** node, Europe and the United States long-term static IP, stable online, fast response, and anonymous.
 > 
-> YiLu Proxy official website: https://yilu.us
+> [YiLuProxy](https://www.yiluproxy.org) official website: https://yilu.us
 > 
 > Youtube channel: https://www.youtube.com/channel/UCSY-Dq43-eL5_bc3P0Id5dw
 > 
@@ -23,6 +23,7 @@
 - [Amazon Proxy](https://yilu.us/use-cases/amazon-proxy)
 - [eBay Proxy](https://yilu.us/use-cases/ebay-proxy)
 - [Sneaker Proxy](https://yilu.us/use-cases/sneaker-proxy)
+- [Shopify Proxy](https://yilu.us/use-cases/shopify-proxy)
 ### [Social Media](https://yilu.us/use-cases/social-media) ###
 - [Facebook Proxy](https://yilu.us/use-cases/facebook-proxy)
 - [Pinterest Proxy](https://yilu.us/use-cases/pinterest-proxy)
@@ -30,6 +31,8 @@
 - [Youtube Proxy](https://yilu.us/use-cases/youtube-proxy)
 - [Discord Proxy](https://yilu.us/use-cases/discord-proxy)
 - [Reddit Proxy](https://yilu.us/use-cases/reddit-proxy)
+- [Craigslist Proxy](https://yilu.us/use-cases/craigslist-proxy)
+- [Telegram Proxy](https://yilu.us/use-cases/telegram-proxy)
 ### [SEO Monitoring](https://yilu.us/use-cases/seo-monitoring) ###
 ### [Web Scraping](https://yilu.us/use-cases/web-scraping) ###
 ### [Brand Protection](https://yilu.us/use-cases/brand-protection) ###
@@ -60,6 +63,7 @@ At present, all **dynamic proxy IPs** and **static proxy IPs** in YiLu proxy sup
 - [Ghost Browser](https://www.youtube.com/watch?v=p0Lp_2otNUo)
 - [Tor Browser](https://www.youtube.com/watch?v=Q87t-myRN8E)
 - [Vivaldi Browser](https://www.youtube.com/watch?v=pNKzeyzox8g)
+- [Waterfox Browser](https://www.youtube.com/watch?v=KFw-4RkgKWM)
 
 
 ### [Antidetect Browser Integration](https://yilu.us/integration) ###
@@ -71,7 +75,8 @@ At present, all **dynamic proxy IPs** and **static proxy IPs** in YiLu proxy sup
 - [AntBowser Antidetect Browser](https://www.youtube.com/watch?v=KcxU2CPNAXU)
 - [MBBrowser Antidetect Browser](https://www.youtube.com/watch?v=D84uJP-WgFQ)
 - [MuLogin Antidetect Browser](https://www.youtube.com/watch?v=tXnEZrMqUNk)
-
+- [VMMask Antidetect Browser](https://www.youtube.com/watch?v=8zBLaKNKDHM)
+- [BitBrowser Antidetect Browser](https://www.youtube.com/watch?v=Fg-_7i5yz1E)
 
 **Global Dynamic Residential Proxy IP Service Provider - YiLu Proxy**
 
