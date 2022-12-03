@@ -5,8 +5,11 @@
 > YiLu Proxy uses international operator's own pure computer room fixed IPS data center IP, global high-speed **Socks5** node, Europe and the United States long-term static IP, stable online, fast response, and anonymous.
 > 
 > [YiLuProxy](https://www.yiluproxy.org) official website: https://yilu.us
+> Download YiLu Proxy: https://yilu.us/download
+> YiLu Proxy trial: https://yilu.us/trial
+> New users promotion: https://yilu.us/faq/yilu-promotion-for-new-users
 > 
-> Youtube channel: https://www.youtube.com/channel/UCSY-Dq43-eL5_bc3P0Id5dw
+> Youtube channel: https://www.youtube.com/@yilu_proxy
 > 
 > Users Review: https://www.producthunt.com/products/yilu-proxy
 
