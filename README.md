@@ -1,7 +1,7 @@
 # YiLu Proxy
 ## Introduction ##
 > 
-> **[YiLu Proxy](https://yilu.us)** is a **Socks5 proxy server** with a **client**, which offers **90M+ dynamic residential IPs** and **datacenter IPs** from global **200+** countries, and you can also find some **USA** shared and dedicated **static IP addresses** in YiLu Proxy.  
+> **[YiLu Proxy](https://yilu.us)** is a **Socks5 and HTTP proxy server** with a **client**, which offers **90M+ dynamic residential IPs** and **datacenter IPs** from global **200+** countries, and you can also find many shared and dedicated **static IP addresses** in YiLu Proxy.  
 > YiLu Proxy uses international operator's own pure computer room fixed IPS data center IP, global high-speed **Socks5** node, Europe and the United States long-term static IP, stable online, fast response, and anonymous.
 > 
 > [YiLuProxy](https://www.yiluproxy.org) official website: https://yilu.us
@@ -64,12 +64,10 @@
 ### [HTTP Proxy](https://yilu.us/proxies/http-socks-proxy-difference) ###
 **HTTP**, also known as **Hypertext Transfer Protocol**, is the core of the **WWW**. It is an object-oriented application layer protocol, and the distributed hypermedia information system has a simple distributed hypermedia information system. For example, when we visit a website, we must transmit the web page code of the web server through the HTTP protocol, browse the web page, and then translate it into a web page.
 
-At present, only **dynamic residential IPs** and **dynamic datacenter IPs** support both **HTTP** and **Socks5** IP proxy protocols in YiLu proxy.
-
 ### [Socks5 Proxy](https://yilu.us) ###  
 **Socks5**, which has a wide range of usage scenarios, is more secure than the **HTTP** protocol. The Socks protocol is mainly used to transmit in the middle of the communication between the client and the external server. Because the Socks5 proxy works at the session layer, the application does not have to follow a specific operating system platform, and the Socks5 proxy only needs to transmit data packets, so it does not need to care about the application protocol type (such as FTP.HTTP and NNTP requests). So the Socks5 proxy network speed is much faster than the HTTP proxy. 
 
-At present, all **dynamic proxy IPs** and **static proxy IPs** in YiLu proxy support **Socks5 protocol**.
+At present, all **dynamic proxy IPs** and **static proxy IPs** in YiLu proxy support **Socks5 and HTTP protocol**.
 
 ## Proxy Setup Guide ##
 - [Proxifier](https://www.youtube.com/watch?v=ETc9byXCkQQ)
