@@ -16,13 +16,27 @@
 > 
 > Users Review: https://www.producthunt.com/products/yilu-proxy
 
-## Proxy IP type ##
-- Shared Static IP
-- [Dedicated Static IP](https://yilu.us/static-dedicated-ip)
-- [Dynamic Residential Proxy IP](https://yilu.us/rotating-residential-ip) (Country)
-- Dynamic Proxy IP (City)
-- Dynamic DataCenter Proxy IP
+## Proxy IP Type ##
+- Dedicated static residential IP
+- Shared static datacenter IP
+- [Dedicated static datacenter IP](https://yilu.us/static-dedicated-ip)
+- [Dynamic residential proxy IP](https://yilu.us/rotating-residential-ip) (Country)
+- Dynamic residential proxy IP (City)
+- Dynamic datacenter proxy IP
   
+## [Proxy IP Locations](https://yilu.us/countries) ##
+- United States
+- [Japan](https://yilu.us/countries/japan-proxy)
+- [Russia](https://yilu.us/countries/russian-proxy)
+- Korea
+- Germany
+- Austrailia
+- [Singapore](https://yilu.us/countries/singapore-proxy)
+- [United Kingdom](https://yilu.us/countries/uk-proxy)
+- France
+- [India](https://yilu.us/countries/indian-proxy)
+- [Spain](https://yilu.us/countries/Spanish-proxy)
+- [Vietnam](https://yilu.us/countries/vietnam-proxy)
 
 ## Use Cases ##
 ### [E-Commerce](https://yilu.us/use-cases/e-commerce-proxy) ###
