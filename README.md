@@ -17,7 +17,7 @@
 > Users Review: https://www.producthunt.com/products/yilu-proxy
 
 ## Proxy IP Type ##
-- [Dedicated static residential IP](https://yilu.us/static-dedicated-ip)
+- [Dedicated static residential IP](https://yilu.us/static-residential-proxy)
 - Shared static datacenter IP
 - [Dedicated static datacenter IP](https://yilu.us/static-dedicated-ip)
 - [Dynamic residential proxy IP](https://yilu.us/rotating-residential-ip) (country/city)
