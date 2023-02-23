@@ -20,7 +20,7 @@
 - [Dedicated static residential IP](https://yilu.us/static-dedicated-ip)
 - Shared static datacenter IP
 - [Dedicated static datacenter IP](https://yilu.us/static-dedicated-ip)
-- [Dynamic residential proxy IP](https://yilu.us/rotating-residential-ip)(country/city)
+- [Dynamic residential proxy IP](https://yilu.us/rotating-residential-ip) (country/city)
 - Dynamic datacenter proxy IP
   
 ## [Proxy IP Locations](https://yilu.us/countries) ##
