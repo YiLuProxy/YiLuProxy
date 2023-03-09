@@ -17,25 +17,31 @@
 > Users Review: https://www.producthunt.com/products/yilu-proxy
 
 ## Proxy IP Type ##
-- [Dedicated static residential IP](https://yilu.us/static-residential-proxy)
-- Shared static datacenter IP
-- [Dedicated static datacenter IP](https://yilu.us/static-dedicated-ip)
+- [Dedicated static residential IP](https://yilu.us/dedicated-residential-proxies)
+- Pro residential IP
+- [Mobile 4G/5G IP](https://yilu.us/mobile-proxies)
 - [Dynamic residential proxy IP](https://yilu.us/rotating-residential-ip) (country/city)
+- [Dedicated static datacenter IP](https://yilu.us/static-dedicated-ip)
 - Dynamic datacenter proxy IP
-  
+- Shared static datacenter IP
+
+
 ## [Proxy IP Locations](https://yilu.us/countries) ##
-- United States
+- [United States](https://yilu.us/countries/usa-proxy)
 - [Japan](https://yilu.us/countries/japan-proxy)
 - [Russia](https://yilu.us/countries/russian-proxy)
 - Korea
-- Germany
+- [Germany](https://yilu.us/countries/germany-proxy)
 - Austrailia
 - [Singapore](https://yilu.us/countries/singapore-proxy)
 - [United Kingdom](https://yilu.us/countries/uk-proxy)
 - France
+- [Canada](https://yilu.us/countries/canada-proxy)
 - [India](https://yilu.us/countries/indian-proxy)
 - [Spain](https://yilu.us/countries/Spanish-proxy)
 - [Vietnam](https://yilu.us/countries/vietnam-proxy)
+- [Taiwan](https://yilu.us/countries/taiwan-proxy)
+- [Nepal](https://yilu.us/countries/nepal-proxy)
 
 ## Use Cases ##
 ### [E-Commerce](https://yilu.us/use-cases/e-commerce-proxy) ###
