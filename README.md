@@ -17,13 +17,22 @@
 > Users Review: https://www.producthunt.com/products/yilu-proxy
 
 ## Proxy IP Type ##
+Sort by IP quality from high to low
 - [Dedicated static residential IP](https://yilu.us/dedicated-residential-proxies)
+> 98 RMB/IP/30 days
 - Pro residential IP
+> If you recharge $100, 60RMB/G; If you recharge $500, 50RMB/G; If you recharge $1000, 35RMB/G
 - [Mobile 4G/5G IP](https://yilu.us/mobile-proxies)
+> If you recharge $100, 85RMB/G; If you recharge $500, 80RMB/G; If you recharge $1000, 75RMB/G
 - [Dynamic residential proxy IP](https://yilu.us/rotating-residential-ip) (country/city)
+> For country IP: (If you recharge $100, 60RMB/G; If you recharge $500, 50RMB/G; If you recharge $1000, 35RMB/G)
+> For city IP: (If you recharge $100, 85RMB/G; If you recharge $500, 80RMB/G; If you recharge $1000, 75RMB/G)
 - [Dedicated static datacenter IP](https://yilu.us/static-dedicated-ip)
+> 30 RMB/IP/30 days
 - Dynamic datacenter proxy IP
+> If you recharge $100, 6RMB/G; If you recharge $500, 5.5RMB/G; If you recharge $1000, 5RMB/G
 - Shared static datacenter IP
+> 0.5 RMB/IP/day
 
 
 ## [Proxy IP Locations](https://yilu.us/countries) ##
