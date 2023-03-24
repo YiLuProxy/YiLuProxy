@@ -26,6 +26,7 @@ Sort by IP quality from high to low
 > If you recharge $100, 85RMB/G; If you recharge $500, 80RMB/G; If you recharge $1000, 75RMB/G
 - [Dynamic residential proxy IP](https://yilu.us/rotating-residential-ip) (country/city)
 > For country IP: (If you recharge $100, 60RMB/G; If you recharge $500, 50RMB/G; If you recharge $1000, 35RMB/G)
+> 
 > For city IP: (If you recharge $100, 85RMB/G; If you recharge $500, 80RMB/G; If you recharge $1000, 75RMB/G)
 - [Dedicated static datacenter IP](https://yilu.us/static-dedicated-ip)
 > 30 RMB/IP/30 days
@@ -53,6 +54,7 @@ Sort by IP quality from high to low
 - [Nepal](https://yilu.us/countries/nepal-proxy)
 
 ## Use Cases ##
+### [ChatGPT Proxy](https://yilu.us/integration/how-to-sign-up-multiple-free-chatgpt-accounts-for-chinese) ###
 ### [E-Commerce](https://yilu.us/use-cases/e-commerce-proxy) ###
 - [Amazon Proxy](https://yilu.us/use-cases/amazon-proxy)
 - [eBay Proxy](https://yilu.us/use-cases/ebay-proxy)
@@ -83,9 +85,21 @@ Sort by IP quality from high to low
 
 At present, all **dynamic proxy IPs** and **static proxy IPs** in YiLu proxy support **Socks5 and HTTP protocol**.
 
-## Proxy Setup Guide ##
-- [Proxifier](https://www.youtube.com/watch?v=ETc9byXCkQQ)
+## Operation System ##
+**Note:** To use YiLu Proxy, you must have a **Windows PC**.
 
+- Windows: https://yilu.us/integration/yilu-proxy-setting-in-windows-10
+- iPhone/iPad/Android device
+> With the third-party application: https://yilu.us/configuration/how-to-use-shadowrocket-with-yilu-socks5-proxies-in-iphone
+> Video tutorial: https://www.youtube.com/watch?v=DuIMonJph3c
+> Without the help of other applications (only your mobile device and Windows PC which run YiLu Proxy client use the same WiFi network, the same LAN): https://yilu.us/configuration/use-yilu-proxies-on-iphone
+
+## Proxy Manager##
+- [Proxifier](https://www.youtube.com/watch?v=ETc9byXCkQQ)
+- [Proxy Helper](https://yilu.us/integration/how-to-use-proxy-helper-chrome-extension-with-yilu-proxy)
+- [BP Proxy Switcher](https://yilu.us/integration/bp-switcher-integrate-with-yilu-proxy)
+- [Proxy SwitchyOmega](https://yilu.us/integration/yilu-proxy-in-switchyomega-chrome-extension)
+- [Foxy Proxy](https://yilu.us/integration/configure-foxyproxy-extension-yilu-proxy)
 
 ### Local Browser Settings ###
 - [Google Chrome](https://yilu.us/configuration/use-yilu-proxy-in-google-chrome-browser) https://www.youtube.com/watch?v=JSDTNunoo8U
