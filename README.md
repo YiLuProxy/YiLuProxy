@@ -91,7 +91,9 @@ At present, all **dynamic proxy IPs** and **static proxy IPs** in YiLu proxy sup
 - Windows: https://yilu.us/integration/yilu-proxy-setting-in-windows-10
 - iPhone/iPad/Android device
 > With the third-party application: https://yilu.us/configuration/how-to-use-shadowrocket-with-yilu-socks5-proxies-in-iphone
+> 
 > Video tutorial: https://www.youtube.com/watch?v=DuIMonJph3c
+> 
 > Without the help of other applications (only your mobile device and Windows PC which run YiLu Proxy client use the same WiFi network, the same LAN): https://yilu.us/configuration/use-yilu-proxies-on-iphone
 
 ## Proxy Manager##
