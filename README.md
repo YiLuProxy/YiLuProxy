@@ -19,7 +19,7 @@
 ## Proxy IP Type ##
 Sort by IP quality from high to low
 - [Dedicated static residential IP](https://yilu.us/dedicated-residential-proxies)
-> 98 RMB/IP/30 days
+> If you recharge $100, 81RMB/IP/month; If you recharge $500, 68RMB/IP/month; If you recharge $1000, 56RMB/IP/month  
 - Pro residential IP
 > If you recharge $100, 60RMB/G; If you recharge $500, 50RMB/G; If you recharge $1000, 35RMB/G
 - [Mobile 4G/5G IP](https://yilu.us/mobile-proxies)
@@ -29,7 +29,7 @@ Sort by IP quality from high to low
 > 
 > For city IP: (If you recharge $100, 85RMB/G; If you recharge $500, 80RMB/G; If you recharge $1000, 75RMB/G)
 - [Dedicated static datacenter IP](https://yilu.us/static-dedicated-ip)
-> 30 RMB/IP/30 days
+> If you recharge $100, 24RMB/IP/month; If you recharge $500, 22RMB/IP/month; If you recharge $1000, 20RMB/IP/month
 - Dynamic datacenter proxy IP
 > If you recharge $100, 6RMB/G; If you recharge $500, 5.5RMB/G; If you recharge $1000, 5RMB/G
 - Shared static datacenter IP
