@@ -4,7 +4,7 @@
 > **[YiLu Proxy](https://yilu.us)** is a **Socks5 and HTTP proxy server** with a **client**, which offers **90M+ dynamic residential IPs** and **datacenter IPs** from global **200+** countries, and you can also find many shared and dedicated **static IP addresses** in YiLu Proxy.  
 > YiLu Proxy uses international operator's own pure computer room fixed IPS data center IP, global high-speed **Socks5** node, Europe and the United States long-term static IP, stable online, fast response, and anonymous.
 > 
-> [YiLuProxy](https://www.yiluproxy.org) official website: https://yilu.us
+> [YiLuProxy](https://yilu.us) official website: https://yilu.us
 > 
 > Download YiLu Proxy: https://yilu.us/download
 > 
@@ -14,7 +14,11 @@
 > 
 > Youtube channel: https://www.youtube.com/@yilu_proxy
 > 
-> Users Review: https://www.producthunt.com/products/yilu-proxy
+> User Reviews: 
+G2: https://www.g2.com/products/yilu-proxy/reviews
+TrustPoint: https://www.trustpilot.com/review/yilu.us  
+SiteJabber: https://www.sitejabber.com/reviews/yilu.us  
+ProductHunter: https://www.producthunt.com/products/yilu-proxy  
 
 ## Proxy IP Type ##
 Sort by IP quality from high to low
