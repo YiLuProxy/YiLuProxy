@@ -14,11 +14,11 @@
 > 
 > Youtube channel: https://www.youtube.com/@yilu_proxy
 > 
-> User Reviews: 
-G2: https://www.g2.com/products/yilu-proxy/reviews
-TrustPoint: https://www.trustpilot.com/review/yilu.us  
+> User Reviews:   
+G2: https://www.g2.com/products/yilu-proxy/reviews  
+TrustPilot: https://www.trustpilot.com/review/yilu.us  
 SiteJabber: https://www.sitejabber.com/reviews/yilu.us  
-ProductHunter: https://www.producthunt.com/products/yilu-proxy  
+ProductHunt: https://www.producthunt.com/products/yilu-proxy  
 
 ## Proxy IP Type ##
 Sort by IP quality from high to low
