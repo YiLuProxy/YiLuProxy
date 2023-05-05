@@ -100,7 +100,7 @@ At present, all **dynamic proxy IPs** and **static proxy IPs** in YiLu proxy sup
 > 
 > Without the help of other applications (only your mobile device and Windows PC which run YiLu Proxy client use the same WiFi network, the same LAN): https://yilu.us/configuration/use-yilu-proxies-on-iphone
 
-## Proxy Manager##
+## Proxy Manager ##
 - [Proxifier](https://www.youtube.com/watch?v=ETc9byXCkQQ)
 - [Proxy Helper](https://yilu.us/integration/how-to-use-proxy-helper-chrome-extension-with-yilu-proxy)
 - [BP Proxy Switcher](https://yilu.us/integration/bp-switcher-integrate-with-yilu-proxy)
